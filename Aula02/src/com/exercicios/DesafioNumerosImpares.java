@@ -1,4 +1,4 @@
-package com.aula03;
+package com.exercicios;
 
 import java.util.Scanner;
 
