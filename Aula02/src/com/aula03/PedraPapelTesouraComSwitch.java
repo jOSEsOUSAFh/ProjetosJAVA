@@ -2,7 +2,7 @@ package com.aula03;
 
 import java.util.Scanner;
 
-public class PedraPapelTesoura {
+public class PedraPapelTesouraComSwitch {
     static String jogador1;
     static String jogador2;
     static String escolha1;
